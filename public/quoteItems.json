@@ -1,0 +1,24 @@
+{
+	"items": [
+    {
+      "itemId": 1,
+      "description": "Item descr #1",
+      "price": 1200
+    },
+    {
+      "itemId": 2,
+      "description": "Item descr #2",
+      "price": 120
+    },
+    {
+      "itemId": 3,
+      "description": "Item descr #3",
+      "price": 500
+    },
+    {
+      "itemId": 4,
+      "description": "Item descr #4s",
+      "price": 300
+    }
+	]
+}
